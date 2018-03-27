@@ -1,3 +1,21 @@
-theme: jekyll-theme-cayman
-index_page: index.md
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
+# Setup
+title:               mastropaolo.com
+tagline:             'Marco Mastropaolo personal website'
+description:         'A github pages website filled with useless ramblings and tech. Theme by Mark Otto (https://twitter.com/mdo)'
+url:                 http://www.mastropaolo.com
+baseurl:             ''
+paginate:            10
+
+# About/contact
+author:
+  name:              Marco Mastropaolo
+  url:               https://twitter.com/mxanathar
+
+# Custom vars
+version:             1.0.0
