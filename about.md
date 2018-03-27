@@ -8,4 +8,6 @@ Husband, father of two super-girls, developer of http://www.moonsharp.org, an up
 
 ### Contact me
 
-DM me on Twitter (I'm [mxanathar](https://twitter.com/mxanathar) there).
+DM me on [Twitter](https://twitter.com/mxanathar) or on [GitHub](https://github.com/xanathar/).
+
+Don't be afraid to contact me for anything, but don't get offended if the answer takes ages to arrive - I'm that lazy.
