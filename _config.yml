@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               mastropaolo.com
 tagline:             'Marco Mastropaolo personal website'
-description:         'A github pages website filled with useless ramblings and tech. Theme by Mark Otto (https://twitter.com/mdo)'
+description:         'A github pages website filled with useless ramblings and tech.'
 url:                 http://www.mastropaolo.com
 baseurl:             ''
 paginate:            10
@@ -30,7 +30,7 @@ version:             1.0.0
 name: Marco Mastropaolo
 
 # Short bio or description (displayed in the header)
-description: Developer of http://www.moonsharp.org, an upcoming game and ton of useless stuff. Hater of Javascript. You probably used my code. Views mine and dangerously peculiar (also, not my employer's).
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/871480828051763202/3RVstZ_G_400x400.jpg

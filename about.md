@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Husband, father of two super-girls, developer of http://www.moonsharp.org, an upcoming game and ton of useless stuff. Hater of Javascript and PHP. You probably used my code. Views mine and dangerously peculiar (also, not my employer's).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+DM me on Twitter (I'm [mxanathar](https://twitter.com/mxanathar) there).
