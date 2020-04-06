@@ -6,13 +6,16 @@
 // Colors
 $blue: #4183C4;
 
-// Grays
+// Grays 
+// This was a template but please: NEVER NAME CONSTANTS WITH WHAT THEY ARE
+// It's really a stupid idea - use $textColor not $black wtf. Of course $black is
+// #000 what's even the point?
 $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$lightGray: #bbb;
+$white: #ddd;
 
 // Font stacks
 $helvetica: "Ubuntu", Helvetica, Arial, sans-serif;
