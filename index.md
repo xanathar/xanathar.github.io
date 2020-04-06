@@ -4,7 +4,7 @@ title: $ whoami
 permalink: /
 ---
 
-I'm Marco Mastropaolo: husband, father of two super-girls, foodie, living in Italy.
+I'm Marco Mastropaolo: husband, father of two, food lover, living in Italy.
 
 I like to spend time building fake things - I mean, software.
 
