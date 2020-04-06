@@ -3,6 +3,12 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+    <script type="text/javascript">
+        var _iub = _iub || [];
+        _iub.csConfiguration = {"cookiePolicyId":570768,"siteId":293025,"lang":"en"};
+        </script>
+        <script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+
     {% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -29,7 +35,7 @@
           <nav>
             <a href="{{ site.baseurl }}/">~</a>
             <a href="{{ site.baseurl }}/blog">~/old_blog</a>
-            <a href="{{ site.baseurl }}/about">~/legal_stuff</a>
+            <a href="{{ site.baseurl }}/about">~/legal-stuff</a>
           </nav>
         </header>
       </div>
