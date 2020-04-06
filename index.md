@@ -16,7 +16,9 @@ If you need further details, that's why I have a [LinkedIn page](https://www.lin
 
 ### $ ping me
 
-DM me on [Twitter](https://twitter.com/mxanathar), [GitHub](https://github.com/xanathar/) or [LinkedIn](https://www.linkedin.com/in/marcomastropaolo/). As a last measure, go with email. It's public because I don't think I can receive more spam than I'm already receiving; this doesn't mean I will reply any faster than through the other means - actually it has more chances to get lost.
+DM me on [Twitter](https://twitter.com/mxanathar), [GitHub](https://github.com/xanathar/) or [LinkedIn](https://www.linkedin.com/in/marcomastropaolo/). 
+
+As a last measure, go with email. It's public because I don't think I can receive more spam than I'm already; this doesn't mean I will reply any faster than through the other means - actually it has more chances to get lost.
 
 Don't be afraid to contact me for anything, but don't get offended if the answer takes ages to arrive - I'm that lazy.
 
