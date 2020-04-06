@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Not yet...
+title: $ whoami
 permalink: /
 ---
 
