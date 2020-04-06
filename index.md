@@ -7,9 +7,9 @@ permalink: /
 I'm Marco Mastropaolo: husband, father of two super-girls, foodie, and I like to spend time building fake things - I mean, software.
 
 Some things I built:
-* [MoonSharp](http://www.moonsharp.org) A Lua interpreter written in C# and ready to be embedded in applications and games
-* [Waking Violet](https://www.wakingviolet.com/) A video game for Windows, MacOS, Nintendo Switch, Sony PS4 and PSVita, Apple iOS and TvOS
-* [FSMSharp](https://github.com/xanathar/FSMsharp) Small finite state machine for .NET languages, written in C#, useful for UIs and games.
+* [MoonSharp](http://www.moonsharp.org) - A Lua interpreter written in C# and ready to be embedded in applications and games
+* [Waking Violet](https://www.wakingviolet.com/) - A videogame for Windows, MacOS, Nintendo Switch, Sony PS4 and PSVita, Apple iOS and TvOS
+* [FSMSharp](https://github.com/xanathar/FSMsharp) - Small finite state machine for .NET languages, written in C#, useful for UIs and games.
 
 All views mine, not my employer's. Maybe not even mine (above all, not my employer's).
 If you need further details, that's why I have a [LinkedIn page](https://www.linkedin.com/in/marcomastropaolo/)
