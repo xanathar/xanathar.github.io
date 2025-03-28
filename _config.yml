@@ -20,9 +20,9 @@ footer-links:
   dribbble:
   email: marco@mastropaolo.com
   facebook:
-  flickr: 
+  flickr:
   github: xanathar
-  instagram: 
+  instagram:
   linkedin: marcomastropaolo
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -86,3 +86,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+include:
+  - .well-known
